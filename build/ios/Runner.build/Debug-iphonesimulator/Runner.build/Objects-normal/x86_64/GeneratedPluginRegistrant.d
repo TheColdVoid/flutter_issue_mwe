@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/thevoid/dev/flutter_mwe/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/thevoid/dev/flutter_mwe/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/thevoid/dev/flutter_mwe/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h
